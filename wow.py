@@ -6,4 +6,4 @@ while count > 0 :
 	print(count)
 	count -= 1
 
-print("fire!")
+print("fire! all!")
